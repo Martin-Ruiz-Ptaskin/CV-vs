@@ -1,15 +1,16 @@
 ---
 date: '1'
-title: 'Halcyon Theme'
-cover: './halcyon.png'
-github: 'https://github.com/bchiang7/halcyon-site'
-external: 'https://halcyon-theme.netlify.com/'
+title: 'Econodata'
+cover: './econodata.png'
+external: 'https://econodata.com.ar/'
 tech:
   - VS Code
-  - Sublime Text
-  - Atom
-  - iTerm2
-  - Hyper
+  - Angular
+  - PHP
+  - Python
+  - Mysql
+  - Node.js
+  -
 ---
 
-A minimal, dark blue theme for VS Code, Sublime Text, Atom, iTerm, and more. Available on [Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=brittanychiang.halcyon-vscode), [Package Control](https://packagecontrol.io/packages/Halcyon%20Theme), [Atom Package Manager](https://atom.io/themes/halcyon-syntax), and [npm](https://www.npmjs.com/package/hyper-halcyon-theme).
+Development of a web platform designed to enhance users' personal finances through artificial intelligence and in-depth financial analysis. This platform allows users to input data on income, expenses, savings, and investments, which are then analyzed to offer personalized recommendations. By utilizing advanced AI algorithms, the platform identifies financial behavior patterns, suggests opportunities for savings and budget optimization, and provides alerts on potential improvements in financial planning. Additionally, it includes stock and cryptocurrency trading analysis along with real-time investment advice, empowering users to reach their financial goals efficiently and securely.
