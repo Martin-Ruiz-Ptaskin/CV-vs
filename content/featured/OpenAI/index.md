@@ -1,6 +1,6 @@
 ---
 date: '2'
-title: 'Spotify Profile'
+title: 'GPT integration'
 cover: './GPT.jpg'
 
 tech:
